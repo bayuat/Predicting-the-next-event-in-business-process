@@ -7,4 +7,4 @@ Six event log data sets, i.e. Helpdesk, BPI2012, BPI2013 Incidents, Sepsis, Road
 We attached pre-processed event logs for future research.
 Please refers to the following research paper:
 
-Bayu Adhi Tama and Marco Comuzzi, "An empirical comparison of classification techniques for predicting the next event in business process," Expert System with Applications (under revision).
+Bayu Adhi Tama and Marco Comuzzi, "An empirical comparison of classification techniques for predicting the next event in business process," Expert System with Applications (to appear).
